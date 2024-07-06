@@ -1,0 +1,11 @@
+
+.loader {
+    display: none;
+    text-align: center;
+  }
+  .image {
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    margin: 0 auto;
+  }
